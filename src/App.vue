@@ -3,7 +3,6 @@
       <router-view></router-view>
     </div>
 </template>
-
 <script>
     import {isMobile} from "./assets/util/common";
 
